@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mainactivity.franzfonseca.com.montelibano.ParqeueEcologicoFragment">
+
+
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text = "@string/parqueecologico"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/parqueecolgico"/>
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/datosparqueecologico"/>
+    </LinearLayout>
+
+
+</FrameLayout>

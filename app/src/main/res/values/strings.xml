@@ -1,0 +1,23 @@
+<resources>
+    2
+    <string name="app_name">MONTELIBANO</string>
+    3
+    <string name="iglesiaermita">IGLESIA ERMITA</string>
+    4
+    <string name="datosiglesia">Patrimonio Municipal, Construida en 1939, Reinahugurada por el nuncio Apostólico Ettore Balestrero en Febrero de 2014, Ubicada en la Calle 17 Carrera 4ta</string>
+    6
+    <string name="parquelacruz">PARQUE DE LA CRUZ</string>
+    7
+    <string name="datosparquelacruz">Antiguo parque Simon Bolivar, Ubicada en el centro de la ciudad, Lugar de influencia de servicios y comercio</string>
+    8
+    <string name="parqueecologico">PARQUE ECOLÓGICO</string>
+    9
+    <string name="datosparqueecologico">Hermoso paraje ubicado en la ía troncal hacia Cerro Matoso, Espacio para la recreación y aprendizaje en contacto y armonía con la naturaleza, cuenta con un gran lago en donde se pueden practicar deportes náuticos y pesca, atracciones de tipo agropecuario, restaurante de comidas típicas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    12
+
+
+    15
+</resources>
